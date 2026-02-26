@@ -1,4 +1,4 @@
-**INSTAGUARD: ADABOOST‑BASED FAKE INSTAGRAM PROFILE DETECTION**
+# INSTAGUARD: ADABOOST‑BASED FAKE INSTAGRAM PROFILE DETECTION
 Abstract:
 
 In today's digital age, the prevalence of fake accounts on social media platforms poses a significant challenge for users, businesses, and platforms alike. To address this issue, we have developed an Instagram and Twitter account detection system using machine learning techniques.
